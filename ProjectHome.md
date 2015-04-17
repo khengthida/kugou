@@ -1,0 +1,1 @@
+Project aim is making it easy to get music ，while not only for music，just like Kugou on windows。However，just remember，our kugou is not Kugou。
